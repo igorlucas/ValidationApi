@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2024
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "DevContas.Domain\Domain.csproj", "{CB18E540-443E-4CC4-8511-AF8B95B16988}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{CB18E540-443E-4CC4-8511-AF8B95B16988}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "DevContas.Data\Data.csproj", "{2F4C70B0-6287-4E14-BAE9-DAAAABEA58F5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{2F4C70B0-6287-4E14-BAE9-DAAAABEA58F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api", "DevContas.Api\Api.csproj", "{66FFBD6F-823D-42DD-AEE1-EE9698745952}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api", "Api\Api.csproj", "{66FFBD6F-823D-42DD-AEE1-EE9698745952}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "DevContas.Service\Service.csproj", "{EC75DCAA-A2E1-4877-BD2D-A8FE6E16942A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "Service\Service.csproj", "{EC75DCAA-A2E1-4877-BD2D-A8FE6E16942A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
